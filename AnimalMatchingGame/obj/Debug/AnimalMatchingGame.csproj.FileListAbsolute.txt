@@ -1,0 +1,15 @@
+C:\Users\WEST\Desktop\myProjects\AnimalMatchingGame\AnimalMatchingGame\obj\Debug\AnimalMatchingGame.csproj.AssemblyReference.cache
+C:\Users\WEST\Desktop\myProjects\AnimalMatchingGame\AnimalMatchingGame\obj\Debug\MainWindow.g.cs
+C:\Users\WEST\Desktop\myProjects\AnimalMatchingGame\AnimalMatchingGame\obj\Debug\App.g.cs
+C:\Users\WEST\Desktop\myProjects\AnimalMatchingGame\AnimalMatchingGame\obj\Debug\AnimalMatchingGame_MarkupCompile.cache
+C:\Users\WEST\Desktop\myProjects\AnimalMatchingGame\AnimalMatchingGame\obj\Debug\AnimalMatchingGame_MarkupCompile.lref
+C:\Users\WEST\Desktop\myProjects\AnimalMatchingGame\AnimalMatchingGame\bin\Debug\AnimalMatchingGame.exe.config
+C:\Users\WEST\Desktop\myProjects\AnimalMatchingGame\AnimalMatchingGame\bin\Debug\AnimalMatchingGame.exe
+C:\Users\WEST\Desktop\myProjects\AnimalMatchingGame\AnimalMatchingGame\bin\Debug\AnimalMatchingGame.pdb
+C:\Users\WEST\Desktop\myProjects\AnimalMatchingGame\AnimalMatchingGame\obj\Debug\MainWindow.baml
+C:\Users\WEST\Desktop\myProjects\AnimalMatchingGame\AnimalMatchingGame\obj\Debug\AnimalMatchingGame.g.resources
+C:\Users\WEST\Desktop\myProjects\AnimalMatchingGame\AnimalMatchingGame\obj\Debug\AnimalMatchingGame.Properties.Resources.resources
+C:\Users\WEST\Desktop\myProjects\AnimalMatchingGame\AnimalMatchingGame\obj\Debug\AnimalMatchingGame.csproj.GenerateResource.cache
+C:\Users\WEST\Desktop\myProjects\AnimalMatchingGame\AnimalMatchingGame\obj\Debug\AnimalMatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\WEST\Desktop\myProjects\AnimalMatchingGame\AnimalMatchingGame\obj\Debug\AnimalMatchingGame.exe
+C:\Users\WEST\Desktop\myProjects\AnimalMatchingGame\AnimalMatchingGame\obj\Debug\AnimalMatchingGame.pdb
